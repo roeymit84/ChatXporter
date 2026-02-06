@@ -1,7 +1,7 @@
 # ChatXporter - AI Chat Conversation Export Tool
 ChatXporter is a simple, free, and privacy-focused Chrome extension that allows you to export AI conversations from ChatGPT, Claude, and Gemini into professional formats instantly. All processing happens locally in your browser-your data never leaves your machine.
 ## 🚀 Features
-- 8 Export Formats: Save your chats as PDF, JSON, HTML, HTML (Raw), Markdown, Word (Doc), TXT, or XML.
+- 8 Export Formats: Save your chats as PDF, JSON, HTML, HTML Structure, Markdown, Word (Doc), TXT, or XML.
 - Multi-Platform Support: Seamlessly works with ChatGPT, Claude, and Google Gemini.
 - Customizable UI: Drag and drop the export formats to reorder them based on your preference.
 - 100% Free: No tiers, no accounts, and no restrictions.
