@@ -23,7 +23,7 @@ ChatXporter is built with a privacy-first approach.
 - Local Processing: All file generation and text extraction happen entirely within your browser session.
 ### Permissions Justification
 - `storage`: Used to save your custom drag-and-drop export format preferences.
-- `activeTab` & `tabs`: Required to detect supported chat platforms and reload tabs upon installation to ensure functionality.
+- `tabs`: Required to reload supported chat tabs upon installation or update to ensure functionality.
 - Host Permissions: Necessary to inject export controls directly into the chat interfaces of ChatGPT, Claude, and Gemini.
 
 ## 📄 License
